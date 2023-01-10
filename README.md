@@ -1,1 +1,1 @@
-# openai
+# Personal GPT interaction
